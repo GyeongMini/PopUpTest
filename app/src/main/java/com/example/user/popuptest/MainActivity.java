@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
     // 올라간것을 병합하기 위해서 테스트 입니다
     // 제발 됬으면 좋겠습니다
     // git hub ;;;;
+    // 또 머지를 하기 위해서
+    // 테스트 중입니다
+    // 한번만에 됫으면 좋겠습니다
+    // 제발 ㅠㅠ
 
 
     @Override
