@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
     private PopupWindow pwindo;
     Point point;
     Button category, game;
+    //팝업을 테스트 중입니다..
+    // 올라간것을 병합하기 위해서 테스트 입니다
+    // 제발 됬으면 좋겠습니다
 
 
     @Override
